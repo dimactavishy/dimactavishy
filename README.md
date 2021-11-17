@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**dimactavishy/dimactavishy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name's Joko Sukino, but my friends call me "dimac"
 
-Here are some ideas to get you started:
+My profile pic is [Lupusregina Beta](https://mywaifulist.moe/waifu/lupusregina-beta-overlord).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student, and hasn't yet graduated. I don't code for work or commission, i only code for fun because i really have nothing else to do.
+
+The only coding skills i got is on JavaScript, specifically NodeJS. I didn't learn how to code for real, and only skimmed through few tutorials and stackoverflow pages while slowly picking up knowledge on JS.
+
+I'm not a native english speaker, so pardon my bad English.
+
+![6905d5c4fe63da6205ccdb2e8a95f8291e171259](https://user-images.githubusercontent.com/79780581/142172162-944180f6-a1da-407c-b025-c26036199ae3.jpeg)
