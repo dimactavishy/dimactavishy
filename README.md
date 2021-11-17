@@ -10,4 +10,6 @@ The only coding skills i got is on JavaScript, specifically NodeJS. I didn't lea
 
 I'm not a native english speaker, so pardon my bad English.
 
+Here's a cute pic that i found, feel free to screenshot and enjoy;
+
 ![6905d5c4fe63da6205ccdb2e8a95f8291e171259](https://user-images.githubusercontent.com/79780581/142172162-944180f6-a1da-407c-b025-c26036199ae3.jpeg)
