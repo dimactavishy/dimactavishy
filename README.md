@@ -10,7 +10,7 @@ The only coding skills i got is on JavaScript, specifically NodeJS. I didn't lea
 
 I'm not a native english speaker, so pardon my bad English. 
 
-Nope, my location is not a joke because i use JavaScript. I literally live [there!](https://en.wikipedia.org/wiki/Java)
+Nope, my location is not a joke because i use JavaScript. I literally hailed from [The Island Of Java!](https://en.wikipedia.org/wiki/Java)
 
 Here's a cute pic that i found, feel free to screenshot and enjoy;
 
