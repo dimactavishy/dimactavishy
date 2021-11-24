@@ -8,7 +8,9 @@ I'm a student, and hasn't yet graduated. I don't code for work or commission, i 
 
 The only coding skills i got is on JavaScript, specifically NodeJS. I didn't learn how to code for real, and only skimmed through few tutorials and stackoverflow pages while slowly picking up knowledge on JS.
 
-I'm not a native english speaker, so pardon my bad English. [I originate from here!](https://en.wikipedia.org/wiki/Indonesia)
+I'm not a native english speaker, so pardon my bad English. 
+
+Nope, my location is not a joke because i use JavaScript. I literally live [there!](https://en.wikipedia.org/wiki/Java)
 
 Here's a cute pic that i found, feel free to screenshot and enjoy;
 
